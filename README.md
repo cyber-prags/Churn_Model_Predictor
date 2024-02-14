@@ -55,7 +55,7 @@ compare_models()
 Our insights were encapsulated in an interactive dashboard created in LookerStudio, providing a clear, comprehensive view of our analysis.
 
 ### Dashboard Link
-[Explore the LookerStudio Dashboard](#)
+Explore the LookerStudio Dashboard: https://lookerstudio.google.com/reporting/10c071dd-f431-4607-b104-5f37bbeb6e0f
 
 ## Conclusion
 The Churn Model Predictor project illuminates the complex dynamics of employee turnover at RevWorks24. Our analysis has yielded actionable insights and strategies designed to elevate employee satisfaction and retention, perfectly aligning with the company's new leadership goals.
