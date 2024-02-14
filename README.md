@@ -1,5 +1,8 @@
 # Churn Model Predictor: RevWorks24 Employee Retention Analysis
 
+![image](https://github.com/cyber-prags/Churn_Model_Predictor/assets/74003758/ac3c410c-a726-4382-905d-766248322892)
+
+
 ## Introduction
 Welcome to the **Churn Model Predictor** project, an end-to-end HR Data Analytics initiative designed to tackle the challenges of employee retention at RevWorks24, a fictitious leader in the software industry. This project is a response to the strategic shift brought about by the appointment of a new CEO, who is keen on understanding and mitigating employee turnover. My role was to collaborate closely with the Human Resources Department to delve into the reasons behind employee churn and gauge the general sentiment among the workforce.
 
@@ -7,6 +10,8 @@ Welcome to the **Churn Model Predictor** project, an end-to-end HR Data Analytic
 As the new CEO of RevWorks24 began reshaping the company's vision, a critical issue was brought to the forefront: **Why are employees leaving, and how can we encourage them to stay?** This question led us to embark on a journey through data analytics, exploring key factors contributing to employee turnover and identifying potential areas for intervention.
 
 ## Technologies & Tools
+![image](https://github.com/cyber-prags/Churn_Model_Predictor/assets/74003758/0998ea30-e574-49c7-bc34-3b81372ab0a5) 
+
 - **Google BigQuery**: For robust data storage and complex querying.
 - **Google Colab**: For executing Python notebooks and data analysis.
 - **AutoML (PyCaret)**: For efficient and effective predictive modeling.
@@ -53,6 +58,8 @@ compare_models()
 
 ## Reporting & Visualization
 Our insights were encapsulated in an interactive dashboard created in LookerStudio, providing a clear, comprehensive view of our analysis.
+![image](https://github.com/cyber-prags/Churn_Model_Predictor/assets/74003758/00f0a9cd-9468-4d10-bec2-59847b191857)
+
 
 ### Dashboard Link
 Explore the LookerStudio Dashboard: https://lookerstudio.google.com/reporting/10c071dd-f431-4607-b104-5f37bbeb6e0f
